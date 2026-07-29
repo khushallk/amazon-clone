@@ -20,7 +20,7 @@ This project recreates the layout of a modern online shopping homepage. It was b
 - 📦 Product category cards for clothes, furniture, beauty, toys, electronics, pet care, and more
 - ⬆️ Back-to-top section
 - 🔗 Multi-column footer with useful links
-- 🎨 Font Awesome icons and hover effects
+- 🎨 Font Awesome icons and hover effects 
 
 ---
 
